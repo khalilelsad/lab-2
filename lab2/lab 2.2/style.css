@@ -1,0 +1,144 @@
+.header {
+    height: 40px;
+    border: 3px solid black;
+    font-size: 25px;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center ;
+    display: flex;
+
+
+}
+.container1 {
+    border: 3px solid black;
+    height: 580px;
+    width:350px;
+    margin-right: 5px;
+}
+
+.container2 {
+    border: 3px solid black;
+    height: 580px;
+    width:1000px
+}
+.container {
+    display: flex;
+    margin-top: 5px;
+}
+img {
+    width:300px;
+    height:200px;
+    margin-right: 5px;
+}
+h { 
+    display: flex;
+justify-content: center;
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 20px; 
+padding-top: 20px
+;}
+
+.pr1 {
+    width: 180px ;
+    height: 180px;
+    background-color: rgb(18, 18, 61);
+    border-radius: 100px;
+    margin-left: 45px;
+    margin-top: 5px;
+
+}
+p1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+padding-top: 60px;
+font-size: 25px;
+}
+p2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+padding-top: 60px;
+font-size: 25px;
+}
+p3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+padding-top: 60px;
+font-size: 25px;
+}
+.pr2 {
+    width: 180px ;
+    height: 180px;
+    margin-top: 15px;
+    border-radius: 100px;
+    background-color: rgb(18, 18, 61);
+    margin-left: 45px;
+
+}
+.pr3 {
+    width: 180px ;
+    height: 180px;
+    border-radius: 100px;
+    background-color: rgb(18, 18, 61);
+    margin-left: 45px;
+margin-top:15px ;
+}
+.container2-1{
+    display: flex;
+}
+.p2 {
+    margin-top: 0;
+    padding-left: 5px;
+}
+
+
+.container2-footer{
+    display: flex;
+    padding-left: 10px;
+    padding-top: 15px;
+}
+.container2-footer1 {
+
+    width:360px;
+    height: 160px;
+    border: 3px solid black;
+    margin-right: 100px;
+}
+
+.container2-footer2 {
+    width:360px;
+    height: 160px;
+    border: 3px solid black;
+}
+
+.footer1{
+    background-color:rgb(18, 18, 61) ;
+    width: 340px;
+    height: 145px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+.footer2{
+    background-color:rgb(18, 18, 61) ;
+    width: 340px;
+    height: 145px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+
